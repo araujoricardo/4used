@@ -1,5 +1,7 @@
 # 4used 👕🥎📿
 
+An imaginary desktop site. Consisting of a simplified version of a web page for sales of used products, separated by categories.
+
 ## The App
 
 ![4used-min](https://user-images.githubusercontent.com/60905493/90448074-0e33bf80-e0bb-11ea-930f-e6c05ad5ae2a.gif)
