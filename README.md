@@ -41,7 +41,7 @@ npm start
 This was a collective effort imagined, executed and revised by:</br>
 [Gabriela Salvo](https://github.com/Gabrielasalvo)</br>
 [Natália Acedo](https://github.com/n-acedo)</br>
-[Mário Luz](https://github.com/MarioLuzz)</br>
+[Mário Luz](https://github.com/Mario-Luz)</br>
 [Ricardo Araujo](https://github.com/araujoricardo)</br>
 
 Support by: 
